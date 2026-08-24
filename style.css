@@ -218,7 +218,7 @@ img {
 
 .portrait-image {
   height: 540px;
-  background-image: url(/image/Courpic.jpeg);
+  background-image: url(/TechSpace/image/Courpic.jpeg);
   background-size: cover;
   background-position: center;
   filter: saturate(0.9) contrast(1.08);
@@ -416,7 +416,7 @@ img {
 }
 
 .image-one {
-  background-image: url("/image/image.png");
+  background-image: url("/TechSpace/image/image.png");
 }
 
 .image-two {
